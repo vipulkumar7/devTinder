@@ -1,0 +1,30 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "tinder for devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "mongodb",
+    "backend",
+    "express",
+    "framework",
+    "web",
+    "http",
+    "api"
+  ],
+  "author": "Vipin Kumar",
+  "contributors": [
+    "Vipin Kumar <vipul15kumar@gmail.com>"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
